@@ -1,14 +1,14 @@
 # una-ihcux-lista05
 
-## Resumo das Heurísticas Aplicadas
+## ✨ Resumo das Heurísticas Aplicadas
 
-Durante a análise da interface, foram aplicadas algumas heurísticas de usabilidade de Nielsen para avaliar a qualidade da interação com o usuário.
+Durante a análise da interface, foram utilizadas heurísticas de usabilidade propostas por Nielsen, com o objetivo de melhorar a experiência do usuário e tornar o sistema mais intuitivo.
 
-- **Visibilidade do Status do Sistema**  
-O sistema informa claramente o que está acontecendo. No caso da inserção da idade, o usuário recebe um retorno imediato informando se o valor digitado está correto ou inválido.
+🔹 **Visibilidade do Status do Sistema**  
+O sistema mantém o usuário informado a todo momento. Ao inserir a idade, é exibido um feedback imediato indicando se a informação é válida ou não.
 
-- **Prevenção de Erros**  
-O sistema evita que o usuário cometa erros, como digitar letras no campo de idade. Caso isso aconteça, uma mensagem é exibida orientando a inserir apenas números.
+🔹 **Prevenção de Erros**  
+A interface evita entradas incorretas, como letras no campo de idade. Quando isso ocorre, o sistema apresenta uma mensagem clara orientando o usuário a digitar apenas números.
 
-- **Estética e Design Minimalista**  
-A interface é simples e direta, contendo apenas os elementos necessários, o que facilita o uso e evita distrações para o usuário.
+🔹 **Estética e Design Minimalista**  
+O sistema apresenta um layout simples e organizado, com apenas os elementos necessários, facilitando a compreensão e evitando distrações.
